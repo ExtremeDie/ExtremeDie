@@ -21,8 +21,8 @@
 <br />
 <br />
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][facebook]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][facebook]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][#]
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][#]
 
 <br />
 <br />
@@ -87,3 +87,4 @@
 [facebook]: https://facebook.com/KoayYongZhuang
 [linkedin]: https://linkedin.com/in/koayyongzhuang
 [sololearn]: https://sololearn.com/Profile/3324702
+[#]: #
