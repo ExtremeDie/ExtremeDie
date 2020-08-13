@@ -97,7 +97,7 @@
 
 ---
 
-<img align="left" alt="ExtremeDie's Github Stats" src="https://github-readme-stats.ExtremeDie.vercel.app/api?username=ExtremeDie&show_icons=true&hide_border=true" />
+[![ExtremeDie's github stats](https://github-readme-stats.vercel.app/api?username=ExtremeDie&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/ExtremeDie/#ExtremeDies-github-stats)
 
 [facebook]: https://facebook.com/KoayYongZhuang
 [linkedin]: https://linkedin.com/in/koayyongzhuang
