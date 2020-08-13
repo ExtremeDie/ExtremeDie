@@ -90,6 +90,13 @@
 
 ---
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <img align="left" alt="ExtremeDie's Github Stats" src="https://github-readme-stats.ExtremeDie.vercel.app/api?username=ExtremeDie&show_icons=true&hide_border=true" />
 
 [facebook]: https://facebook.com/KoayYongZhuang
