@@ -92,7 +92,13 @@
 [<img align="left" alt="Linux" title="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][#]
 [<img align="left" alt="Ubuntu" title="Ubuntu" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][#]
 [<img align="left" alt="AWS" title="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][#]
+[<img align="left" alt="Google Cloud Platform" title="Google Cloud Platform" width="32px" src="https://raw.githubusercontent.com/gist/ryanj/bb3946992e3ea9521bf8dc21b70f4145/raw/e00572ca6f5c5e48d33bc11e51c1bd42c777e80d/gcp-logo.svg" />][#]
+
+<br />
+<br />
+
 [<img align="left" alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][#]
+[<img align="left" alt="yarn" title="yarn" width="32px" src="https://raw.githubusercontent.com/yarnpkg/assets/76d30ca2aebed5b73ea8131d972218fb860bd32d/yarn-kitten-circle.svg" />][#]
 
 <br />
 <br />
