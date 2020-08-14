@@ -24,7 +24,8 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [E-Books Web Crawling Application with Recommendation System](https://dev.to/extremedie/e-books-web-crawling-application-with-recommendation-system-55ah)
+
+-   [E-Books Web Crawling Application with Recommendation System](https://dev.to/extremedie/e-books-web-crawling-application-with-recommendation-system-55ah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -34,7 +35,9 @@
 [<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][#]
 [<img align="left" alt="CPP" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][#]
 
-[![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png =50x "C++")](https://meta.stackoverflow.com/users/44330/jason-s)
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png =250x "C++")
+
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png =250x)
 
 <br />
 <br />
