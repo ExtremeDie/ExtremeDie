@@ -24,8 +24,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [E-Books Web Crawling Application with Recommendation System](https://dev.to/extremedie/e-books-web-crawling-application-with-recommendation-system-55ah)
+- [E-Books Web Crawling Application with Recommendation System](https://dev.to/extremedie/e-books-web-crawling-application-with-recommendation-system-55ah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
