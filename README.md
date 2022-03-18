@@ -1,10 +1,7 @@
 ### Hi there👋, I'm Yong Zhuang - aka ExtremeDie
 
-## I'm a Full Stack Developer and a fresh graduate!
+## I'm a Full Stack Developer!
 
--   🔭 I’m currently learning <img alt="Spring Boot" title="Spring Boot" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> ,
-    <img alt="Vue.js" title="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> and
-    <img alt="C#" title="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 -   🌱 Always learning new things
 
 ---
