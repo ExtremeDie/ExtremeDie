@@ -1,8 +1,8 @@
-### Hi there👋, I'm Yong Zhuang - aka ExtremeDie
+### Hi there👋, I'm Yong Zhuang
 
-## I'm a Full Stack Developer!
+## I'm a Full Stack Developer + Tech Lead!
 
--   🌱 Always learning new things
+- 🌱 Always learning new things
 
 ---
 
