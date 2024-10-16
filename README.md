@@ -8,14 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ExtremeDie | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] [<img align="left" alt="ExtremeDie | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]
 
-<br />
-<br />
-
-[<img align="left" alt="ExtremeDie | Sololearn" height="24px" src="https://camo.githubusercontent.com/89c068c5b008aa0958311b6842c96031002cb39f/68747470733a2f2f692e696d6775722e636f6d2f37474c4e52516e2e706e67" />][sololearn]
-
-<br />
+[sololearn]
 
 ---
 
@@ -104,7 +99,6 @@
 
 [![ExtremeDie's github stats](https://github-readme-stats.vercel.app/api?username=ExtremeDie&show_icons=true&count_private=true&theme=shades-of-purple)](https://github.com/ExtremeDie/#ExtremeDies-github-stats)
 
-[facebook]: https://facebook.com/KoayYongZhuang
 [linkedin]: https://linkedin.com/in/koayyongzhuang
 [sololearn]: https://sololearn.com/Profile/3324702
 [#]: #
